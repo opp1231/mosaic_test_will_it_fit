@@ -148,7 +148,6 @@ tqdm==4.66.1
 traitlets==5.10.0
 typing_extensions==4.8.0
 tzdata==2023.3
-unicodedata2 @ file:///croot/unicodedata2_1736541023050/work
 uri-template==1.3.0
 urllib3==1.26.16
 wcwidth==0.2.6
